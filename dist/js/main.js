@@ -275,70 +275,70 @@ function backToTop() {
 }
 
 // Scroll reveal
-window.sr = ScrollReveal({
-  duration: 1500,
-  distance: "10rem",
-  delay: 50,
-  easing: "ease",
-  reset: true,
-  mobile: true
-});
+// window.sr = ScrollReveal({
+//   duration: 1500,
+//   distance: "10rem",
+//   delay: 50,
+//   easing: "ease",
+//   reset: true,
+//   mobile: true
+// });
 
-sr.reveal(".animate-left", {
-  origin: "left"
-});
+// sr.reveal(".animate-left", {
+//   origin: "left"
+// });
 
-sr.reveal(".animate-right", {
-  origin: "right"
-});
+// sr.reveal(".animate-right", {
+//   origin: "right"
+// });
 
-sr.reveal(".animate-bottom", {
-  origin: "bottom"
-});
+// sr.reveal(".animate-bottom", {
+//   origin: "bottom"
+// });
 
-sr.reveal(".animate-top", {
-  origin: "top"
-});
+// sr.reveal(".animate-top", {
+//   origin: "top"
+// });
 
-sr.reveal(".zedical-rotate", {
-  rotate: {
-    z: 360
-  }
-});
+// sr.reveal(".zedical-rotate", {
+//   rotate: {
+//     z: 360
+//   }
+// });
 
-sr.reveal(".horizantal-rotate", {
-  rotate: {
-    x: 100
-  }
-});
+// sr.reveal(".horizantal-rotate", {
+//   rotate: {
+//     x: 100
+//   }
+// });
 
-sr.reveal(".vertical-rotate", {
-  rotate: {
-    y: 100
-  }
-});
+// sr.reveal(".vertical-rotate", {
+//   rotate: {
+//     y: 100
+//   }
+// });
 
-sr.reveal(".scale", {
-  scale: 0
-});
+// sr.reveal(".scale", {
+//   scale: 0
+// });
 
-sr.reveal(".opacity", {
-  opacity: 0
-});
+// sr.reveal(".opacity", {
+//   opacity: 0
+// });
 
-sr.reveal(".unreset", {
-  reset: false
-});
+// sr.reveal(".unreset", {
+//   reset: false
+// });
 
-sr.reveal(".no-distance", {
-  distance: "0"
-});
+// sr.reveal(".no-distance", {
+//   distance: "0"
+// });
 
-sr.reveal(".nav-item", {
-  origin: "left"
-});
+// sr.reveal(".nav-item", {
+//   origin: "left"
+// });
 
-sr.reveal(".wait", {
-  duration: 2000,
-  delay: 500
-});
+// sr.reveal(".wait", {
+//   duration: 2000,
+//   delay: 500
+// });
