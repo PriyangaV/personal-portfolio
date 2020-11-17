@@ -152,7 +152,7 @@ function bodyScrollingToggle() {
       projectDetailsBtn.querySelector("i").classList.remove("fa-plus");
       projectDetailsBtn.querySelector("i").classList.add("fa-minus");
       projectDetailsContainer.classList.add("active");
-      projectDetailsContainer.style.maxHeight = "500px";
+      projectDetailsContainer.style.maxHeight = "600px";
       // projectDetailsContainer.style.maxHeight = projectDetailsContainer.scrollHeight + 'px';
       // popup.scrollTo(0, projectDetailsContainer.offsetTop);
     }
