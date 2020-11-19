@@ -30,6 +30,9 @@
   border-radius: 50%;
   box-shadow: var(--box-shadow);
   background-color: var(--bg-black-200);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .theme-chooser .s-icon i {
